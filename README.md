@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/nitintripathi1/LEETCODE/tree/master/2710-remove-trailing-zeros-from-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 <!---LeetCode Topics End-->
