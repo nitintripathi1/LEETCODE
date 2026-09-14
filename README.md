@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/nitintripathi1/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitintripathi1/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/nitintripathi1/LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
