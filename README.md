@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/nitintripathi1/LEETCODE/tree/master/0223-rectangle-area) |
+| [0258-add-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/nitintripathi1/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitintripathi1/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/nitintripathi1/LEETCODE/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/nitintripathi1/LEETCODE/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
