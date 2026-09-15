@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/nitintripathi1/LEETCODE/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [1534-count-good-triplets](https://github.com/nitintripathi1/LEETCODE/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/nitintripathi1/LEETCODE/tree/master/1995-count-special-quadruplets) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/nitintripathi1/LEETCODE/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0213-house-robber-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Geometry
 |  |
