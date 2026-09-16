@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitintripathi1/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nitintripathi1/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Math
 |  |
@@ -43,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/nitintripathi1/LEETCODE/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/nitintripathi1/LEETCODE/tree/master/0836-rectangle-overlap) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitintripathi1/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
