@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nitintripathi1/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [1995-count-special-quadruplets](https://github.com/nitintripathi1/LEETCODE/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitintripathi1/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nitintripathi1/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nitintripathi1/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0658-find-k-closest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
@@ -138,8 +140,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/nitintripathi1/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/nitintripathi1/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nitintripathi1/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
