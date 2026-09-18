@@ -161,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/nitintripathi1/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/nitintripathi1/LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
