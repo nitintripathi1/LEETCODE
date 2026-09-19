@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0976-largest-perimeter-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1534-count-good-triplets](https://github.com/nitintripathi1/LEETCODE/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/nitintripathi1/LEETCODE/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitintripathi1/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0976-largest-perimeter-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitintripathi1/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nitintripathi1/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/nitintripathi1/LEETCODE/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/nitintripathi1/LEETCODE/tree/master/0836-rectangle-overlap) |
+| [0976-largest-perimeter-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nitintripathi1/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitintripathi1/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
+| [0976-largest-perimeter-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Longest Increasing Subsequence
 |  |
@@ -172,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/nitintripathi1/LEETCODE/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nitintripathi1/LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/nitintripathi1/LEETCODE/tree/master/1795-rearrange-products-table) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
