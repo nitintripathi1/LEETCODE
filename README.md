@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/nitintripathi1/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitintripathi1/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3360-stone-removal-game](https://github.com/nitintripathi1/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitintripathi1/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/0258-add-digits) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/nitintripathi1/LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [3360-stone-removal-game](https://github.com/nitintripathi1/LEETCODE/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
