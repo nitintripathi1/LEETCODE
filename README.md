@@ -167,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/nitintripathi1/LEETCODE/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/nitintripathi1/LEETCODE/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nitintripathi1/LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
+| [1795-rearrange-products-table](https://github.com/nitintripathi1/LEETCODE/tree/master/1795-rearrange-products-table) |
 <!---LeetCode Topics End-->
