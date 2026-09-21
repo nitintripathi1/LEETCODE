@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/0001-two-sum) |
+| [0063-unique-paths-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0189-rotate-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nitintripathi1/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0213-house-robber-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/nitintripathi1/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0213-house-robber-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nitintripathi1/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
