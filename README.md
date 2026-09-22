@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0189-rotate-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nitintripathi1/LEETCODE/tree/master/0198-house-robber) |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nitintripathi1/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0503-next-greater-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
