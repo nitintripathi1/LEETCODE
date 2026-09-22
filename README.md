@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/nitintripathi1/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/nitintripathi1/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0976-largest-perimeter-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/nitintripathi1/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nitintripathi1/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/nitintripathi1/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/nitintripathi1/LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/nitintripathi1/LEETCODE/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Tree
@@ -218,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nitintripathi1/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
