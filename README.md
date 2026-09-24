@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitintripathi1/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nitintripathi1/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nitintripathi1/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitintripathi1/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitintripathi1/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3360-stone-removal-game](https://github.com/nitintripathi1/LEETCODE/tree/master/3360-stone-removal-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nitintripathi1/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitintripathi1/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
