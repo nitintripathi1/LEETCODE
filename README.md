@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nitintripathi1/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/nitintripathi1/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/nitintripathi1/LEETCODE/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/nitintripathi1/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/nitintripathi1/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/nitintripathi1/LEETCODE/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0518-coin-change-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Geometry
@@ -240,9 +242,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/nitintripathi1/LEETCODE/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/nitintripathi1/LEETCODE/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0518-coin-change-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/nitintripathi1/LEETCODE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
