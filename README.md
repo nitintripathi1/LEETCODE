@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/nitintripathi1/LEETCODE/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nitintripathi1/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitintripathi1/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nitintripathi1/LEETCODE/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nitintripathi1/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nitintripathi1/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nitintripathi1/LEETCODE/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0518-coin-change-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nitintripathi1/LEETCODE/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Geometry
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/nitintripathi1/LEETCODE/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0518-coin-change-ii) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nitintripathi1/LEETCODE/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nitintripathi1/LEETCODE/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nitintripathi1/LEETCODE/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
