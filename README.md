@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nitintripathi1/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/nitintripathi1/LEETCODE/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/nitintripathi1/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nitintripathi1/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/nitintripathi1/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/nitintripathi1/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nitintripathi1/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nitintripathi1/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0976-largest-perimeter-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitintripathi1/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/nitintripathi1/LEETCODE/tree/master/1046-last-stone-weight) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitintripathi1/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -277,14 +281,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1748-sum-of-unique-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nitintripathi1/LEETCODE/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
