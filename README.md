@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/nitintripathi1/LEETCODE/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/nitintripathi1/LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nitintripathi1/LEETCODE/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/nitintripathi1/LEETCODE/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Common Subsequence
 |  |
 | ------- |
