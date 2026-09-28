@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [1143-longest-common-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/nitintripathi1/LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/nitintripathi1/LEETCODE/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nitintripathi1/LEETCODE/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Geometry
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
