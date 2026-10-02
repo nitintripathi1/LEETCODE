@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0976-largest-perimeter-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nitintripathi1/LEETCODE/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitintripathi1/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Longest Increasing Subsequence
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nitintripathi1/LEETCODE/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Tree
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/nitintripathi1/LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nitintripathi1/LEETCODE/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nitintripathi1/LEETCODE/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/nitintripathi1/LEETCODE/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/nitintripathi1/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nitintripathi1/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nitintripathi1/LEETCODE/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nitintripathi1/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Longest Common Subsequence
 |  |
