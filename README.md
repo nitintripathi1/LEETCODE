@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0976-largest-perimeter-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1046-last-stone-weight](https://github.com/nitintripathi1/LEETCODE/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1534-count-good-triplets](https://github.com/nitintripathi1/LEETCODE/tree/master/1534-count-good-triplets) |
 | [1640-check-array-formation-through-concatenation](https://github.com/nitintripathi1/LEETCODE/tree/master/1640-check-array-formation-through-concatenation) |
 | [1748-sum-of-unique-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/1748-sum-of-unique-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/nitintripathi1/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nitintripathi1/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1048-longest-string-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1640-check-array-formation-through-concatenation](https://github.com/nitintripathi1/LEETCODE/tree/master/1640-check-array-formation-through-concatenation) |
 | [1748-sum-of-unique-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1995-count-special-quadruplets](https://github.com/nitintripathi1/LEETCODE/tree/master/1995-count-special-quadruplets) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0976-largest-perimeter-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
+| [1048-longest-string-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/1048-longest-string-chain) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitintripathi1/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitintripathi1/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/nitintripathi1/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/0856-score-of-parentheses) |
+| [1048-longest-string-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1108-defanging-an-ip-address](https://github.com/nitintripathi1/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nitintripathi1/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/1143-longest-common-subsequence) |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/nitintripathi1/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1048-longest-string-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -247,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [1048-longest-string-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/1048-longest-string-chain) |
 | [2465-number-of-distinct-averages](https://github.com/nitintripathi1/LEETCODE/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nitintripathi1/LEETCODE/tree/master/3884-first-matching-character-from-both-ends) |
