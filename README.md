@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nitintripathi1/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/nitintripathi1/LEETCODE/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/nitintripathi1/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nitintripathi1/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nitintripathi1/LEETCODE/tree/master/0242-valid-anagram) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/nitintripathi1/LEETCODE/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/nitintripathi1/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nitintripathi1/LEETCODE/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
