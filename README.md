@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0169-majority-element](https://github.com/nitintripathi1/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nitintripathi1/LEETCODE/tree/master/0198-house-robber) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/nitintripathi1/LEETCODE/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/nitintripathi1/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/nitintripathi1/LEETCODE/tree/master/0198-house-robber) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nitintripathi1/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Monotonic Stack
 |  |
