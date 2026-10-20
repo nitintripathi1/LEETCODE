@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1995-count-special-quadruplets](https://github.com/nitintripathi1/LEETCODE/tree/master/1995-count-special-quadruplets) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/nitintripathi1/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nitintripathi1/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitintripathi1/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nitintripathi1/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nitintripathi1/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/nitintripathi1/LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/nitintripathi1/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nitintripathi1/LEETCODE/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nitintripathi1/LEETCODE/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/nitintripathi1/LEETCODE/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/0258-add-digits) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/nitintripathi1/LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/nitintripathi1/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitintripathi1/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3360-stone-removal-game](https://github.com/nitintripathi1/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/nitintripathi1/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
