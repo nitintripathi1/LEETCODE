@@ -1,19 +1,17 @@
 class Solution {
 public:
-    int solve(vector<int>& nums, int i, vector<int>& dp) {
-        if (i < 0)
-            return 0;
+int dp[101];
+int solve(int i , vector<int>&nums){
+    if(i < 0) return 0;
+    if(dp[i] != -1) return dp[i];
+    int take = nums[i] + solve(i -2 , nums);
+    int skip = solve(i -1 , nums);
+    return dp[i] = max(take , skip);
 
-        if (dp[i] != -1)
-            return dp[i];
-        int loot = nums[i] + solve(nums, i - 2, dp);
-        int skip = solve(nums, i - 1, dp);
-        return dp[i] = max(loot, skip);
-    }
+}
     int rob(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> dp(n, -1);
-
-        return solve(nums, n - 1, dp);
+        int n = nums.size() -1; 
+        memset(dp , -1 , sizeof(dp));
+        return solve(n, nums);
     }
 };
