@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitintripathi1/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nitintripathi1/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/nitintripathi1/LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitintripathi1/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nitintripathi1/LEETCODE/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nitintripathi1/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
