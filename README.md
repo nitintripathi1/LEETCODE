@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nitintripathi1/LEETCODE/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/nitintripathi1/LEETCODE/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/nitintripathi1/LEETCODE/tree/master/0174-dungeon-game) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/nitintripathi1/LEETCODE/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/nitintripathi1/LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0120-triangle) |
 | [0174-dungeon-game](https://github.com/nitintripathi1/LEETCODE/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/nitintripathi1/LEETCODE/tree/master/0198-house-robber) |
