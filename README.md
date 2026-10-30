@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0941-valid-mountain-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0941-valid-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1046-last-stone-weight](https://github.com/nitintripathi1/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/1048-longest-string-chain) |
