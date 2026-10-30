@@ -1,17 +1,17 @@
 class Solution {
 public:
+int solve(int i ,int count ,int ans, vector<int>&nums){
+    if(i == nums.size()){
+        return max(ans , count);
+    }
+    if(nums[i] > nums[i-1]){
+        return solve(i+1 , count+1 , ans , nums);
+    }
+    ans = max(ans , count);
+    return solve(i+1 , 1 , ans , nums);
+}
     int findLengthOfLCIS(vector<int>& nums) {
-        int ans = 1;
-        int curr = 1;
-        for(int i =1; i < nums.size(); i++){
-            if(nums[i] > nums[i-1]){
-                curr++;
-            }
-            else {
-                curr = 1;
-            }
-            ans = max(ans , curr);
-        }
-        return ans;
+        if(nums.size() == 0) return 0;
+        return solve(1 , 1 , 1 ,nums);
     }
 };
