@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nitintripathi1/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nitintripathi1/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3665-twisted-mirror-path-count](https://github.com/nitintripathi1/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitintripathi1/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nitintripathi1/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nitintripathi1/LEETCODE/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3665-twisted-mirror-path-count](https://github.com/nitintripathi1/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 ## Geometry
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/nitintripathi1/LEETCODE/tree/master/0174-dungeon-game) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nitintripathi1/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/nitintripathi1/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 ## Monotonic Stack
 |  |
 | ------- |
