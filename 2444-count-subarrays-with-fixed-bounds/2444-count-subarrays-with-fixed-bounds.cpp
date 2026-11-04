@@ -7,7 +7,7 @@ public:
         int i = 0;
         int n = nums.size();
         long long ans = 0;
-        while(i < n){
+        for(int i = 0; i < n; i++){
             if(nums[i] == minK){
                 minK_idx = i;
             }
@@ -20,7 +20,7 @@ public:
             int smaller = min(minK_idx , maxK_idx);
             int temp = smaller - mG_idx;
             ans += temp <= 0 ? 0 : temp;
-            i++;
+            
         }
         return ans;
     }
