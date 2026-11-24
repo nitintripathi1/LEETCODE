@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/nitintripathi1/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/nitintripathi1/LEETCODE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nitintripathi1/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
