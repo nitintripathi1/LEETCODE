@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0845-longest-mountain-in-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0941-valid-mountain-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0941-valid-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1046-last-stone-weight](https://github.com/nitintripathi1/LEETCODE/tree/master/1046-last-stone-weight) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [1534-count-good-triplets](https://github.com/nitintripathi1/LEETCODE/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/nitintripathi1/LEETCODE/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitintripathi1/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/nitintripathi1/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0845-longest-mountain-in-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0845-longest-mountain-in-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/1048-longest-string-chain) |
 | [2465-number-of-distinct-averages](https://github.com/nitintripathi1/LEETCODE/tree/master/2465-number-of-distinct-averages) |
 | [2938-separate-black-and-white-balls](https://github.com/nitintripathi1/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
