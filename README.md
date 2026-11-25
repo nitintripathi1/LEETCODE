@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1995-count-special-quadruplets](https://github.com/nitintripathi1/LEETCODE/tree/master/1995-count-special-quadruplets) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/nitintripathi1/LEETCODE/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nitintripathi1/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nitintripathi1/LEETCODE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nitintripathi1/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1640-check-array-formation-through-concatenation](https://github.com/nitintripathi1/LEETCODE/tree/master/1640-check-array-formation-through-concatenation) |
 | [1748-sum-of-unique-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1995-count-special-quadruplets](https://github.com/nitintripathi1/LEETCODE/tree/master/1995-count-special-quadruplets) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/nitintripathi1/LEETCODE/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitintripathi1/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nitintripathi1/LEETCODE/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitintripathi1/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/nitintripathi1/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0658-find-k-closest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/nitintripathi1/LEETCODE/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nitintripathi1/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nitintripathi1/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/nitintripathi1/LEETCODE/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nitintripathi1/LEETCODE/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nitintripathi1/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nitintripathi1/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
