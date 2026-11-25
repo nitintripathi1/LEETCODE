@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/nitintripathi1/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+| [0224-basic-calculator](https://github.com/nitintripathi1/LEETCODE/tree/master/0224-basic-calculator) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitintripathi1/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nitintripathi1/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/nitintripathi1/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/nitintripathi1/LEETCODE/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/nitintripathi1/LEETCODE/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/nitintripathi1/LEETCODE/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/nitintripathi1/LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nitintripathi1/LEETCODE/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/nitintripathi1/LEETCODE/tree/master/0279-perfect-squares) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/nitintripathi1/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitintripathi1/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nitintripathi1/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/nitintripathi1/LEETCODE/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/nitintripathi1/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/nitintripathi1/LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/nitintripathi1/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/nitintripathi1/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/nitintripathi1/LEETCODE/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/nitintripathi1/LEETCODE/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
