@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nitintripathi1/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nitintripathi1/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/nitintripathi1/LEETCODE/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0767-reorganize-string) |
 | [1048-longest-string-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/nitintripathi1/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1640-check-array-formation-through-concatenation](https://github.com/nitintripathi1/LEETCODE/tree/master/1640-check-array-formation-through-concatenation) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nitintripathi1/LEETCODE/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0767-reorganize-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/nitintripathi1/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1048-longest-string-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/1048-longest-string-chain) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nitintripathi1/LEETCODE/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nitintripathi1/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/nitintripathi1/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nitintripathi1/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/nitintripathi1/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nitintripathi1/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0767-reorganize-string) |
 | [0856-score-of-parentheses](https://github.com/nitintripathi1/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nitintripathi1/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/nitintripathi1/LEETCODE/tree/master/1048-longest-string-chain) |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitintripathi1/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/nitintripathi1/LEETCODE/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0767-reorganize-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/nitintripathi1/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/nitintripathi1/LEETCODE/tree/master/1046-last-stone-weight) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitintripathi1/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -484,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nitintripathi1/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nitintripathi1/LEETCODE/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/nitintripathi1/LEETCODE/tree/master/0767-reorganize-string) |
 | [1748-sum-of-unique-elements](https://github.com/nitintripathi1/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nitintripathi1/LEETCODE/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2404-most-frequent-even-element](https://github.com/nitintripathi1/LEETCODE/tree/master/2404-most-frequent-even-element) |
